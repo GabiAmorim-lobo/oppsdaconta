@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/gabiamorim-lobo.lwc-l896ctbr",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 93G7707vjKbMmx5O365u --open"
+  }
+}
